@@ -1,1 +1,12 @@
+*.bin
 *.o
+*.zip
+
+.sconsign.dblite
+bin
+build
+lib
+
+examples/basic
+examples/threads
+papers/2016-aucb/aucb
